@@ -1,3 +1,5 @@
+> This package has been moved to the [pnpm](https://github.com/pnpm/pnpm) multi-package repository.
+
 # dependencies-hierarchy
 
 > Creates a dependencies hierarchy for a symlinked \`node_modules\`
